@@ -13,10 +13,10 @@ This project analyzes the performance of DGT Cinema in May 2019, focusing on thr
 3. **Operational Insights**: Staff efficiency, peak hours, and digital platform usage.
 
 ## Screenshots
-![DGT dashboard 1](dashboard_screenshot_1.png)
-![DGT dashboard 2](dashboard_screenshot_2.png)
-![DGT dashboard 3](dashboard_screenshot_3.png)
-![DGT dashboard 4](dashboard_screenshot_4.png)
+![DGT dashboard 1](src/dashboard_screenshot_1.png)
+![DGT dashboard 2](src/dashboard_screenshot_2.png)
+![DGT dashboard 3](src/dashboard_screenshot_3.png)
+![DGT dashboard 4](src/dashboard_screenshot_4.png)
 
 ## Files Included
 
