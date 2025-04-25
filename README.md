@@ -12,6 +12,9 @@ This project analyzes the performance of DGT Cinema in May 2019, focusing on thr
 2. **Customer Analysis**: Segmentation, demographics, and retention.
 3. **Operational Insights**: Staff efficiency, peak hours, and digital platform usage.
 
+## Screenshots
+![DGT dashboard](dashboard_screenshot.png)
+
 ## Files Included
 
 1. **Data File Excel include**:
